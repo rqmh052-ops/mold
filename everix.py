@@ -9,10 +9,10 @@
 
 # ─── اسم الحساب الأساسي ────────────────────────────────────────
 # الحسابات راح تُسمّى: Everix¹, Everix², Everix³ ...
-ACCOUNT_BASE_NAME = "Everix"
+ACCOUNT_BASE_NAME = "AYMAN s"
 
 # ─── عدد الحسابات اللي تبي تنشئها في كل شغلة ─────────────────
-ACCOUNT_COUNT = 5
+ACCOUNT_COUNT = 200
 
 # ─── المنطقة / Region ──────────────────────────────────────────
 # خيارات: PK | BD | ME | IND | SG | BR | TH | VN | MY | US
@@ -29,4 +29,4 @@ TELEGRAM_BOT_TOKEN = "8843261866:AAGQSxFA7v359lffxBQaEhCmKCitGZfTRGs"
 # ─── Chat ID اللي تبي يوصله الحسابات ─────────────────────────
 # شغّل البوت واكتب /start، أو استخدم @userinfobot تعرف الـ ID تبعك
 # مثال: TELEGRAM_CHAT_ID = "123456789"
-TELEGRAM_CHAT_ID = "8843261866"
+TELEGRAM_CHAT_ID = "8287678319"
