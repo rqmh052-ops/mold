@@ -9,10 +9,10 @@
 
 # ─── اسم الحساب الأساسي ────────────────────────────────────────
 # الحسابات راح تُسمّى: Everix¹, Everix², Everix³ ...
-ACCOUNT_BASE_NAME = "AYMANㅤs7"
+ACCOUNT_BASE_NAME = "Everix"
 
 # ─── عدد الحسابات اللي تبي تنشئها في كل شغلة ─────────────────
-ACCOUNT_COUNT = 200
+ACCOUNT_COUNT = 5
 
 # ─── المنطقة / Region ──────────────────────────────────────────
 # خيارات: PK | BD | ME | IND | SG | BR | TH | VN | MY | US
